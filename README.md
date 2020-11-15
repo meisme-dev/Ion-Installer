@@ -18,7 +18,8 @@
   
 #### RHEL/Fedora/CentOS installation: `sudo dnf install nodejs npm`  
 
-#### MacOS installation (assuming you have brew): `brew install node`. If you do not have brew installed, run the following: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`  
+#### MacOS installation (assuming you have brew): `brew install node`. If you do not have brew installed, run the following:  
+#### `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`  
   
 #### Windows installation: Download the latest installer from https://nodejs.org/en/#home-downloadhead
   
