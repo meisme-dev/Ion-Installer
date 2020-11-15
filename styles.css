@@ -57,3 +57,31 @@ body{
   transform: scale(1.2);
 }
 
+
+.btn-back { 
+  transition: all .2s ease-in-out; 
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 5;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 38px;
+  padding-right: 38px;
+  bottom: 32px;
+  left: 32px;
+  position: absolute;
+  transition: all 0.75s ease;
+  outline: 0;
+}
+.btn-back:hover { 
+  transform: scale(1.2); 
+  background-color: #322e6b;
+  color:white;
+}
+
+.btn-back:focus{
+background-color: #1c1a3b;
+color: white;
+transform: scale(1.2);
+}
